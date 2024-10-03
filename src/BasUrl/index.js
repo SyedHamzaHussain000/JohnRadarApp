@@ -1,0 +1,1 @@
+export default "https://appsdemo.pro/johnradar.appsdemo.pro/api/user/"
